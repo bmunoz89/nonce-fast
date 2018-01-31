@@ -1,0 +1,36 @@
+{
+  "name": "nonce-fast",
+  "version": "1.0.0",
+  "description": "nonce value generator",
+  "main": "index.js",
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint **/*.js",
+    "test": "mocha --max_old_space_size=4096 test/index.js",
+    "coverage": "nyc mocha --max_old_space_size=4096 test/index.js",
+    "benchmark": "node --max_old_space_size=4096"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bmunoz89/nonce-fast.git"
+  },
+  "keywords": [
+    "nonce",
+    "generator"
+  ],
+  "author": "Boris Muñoz <bmunozc89@gmail.com> (https://github.com/bmunoz89)",
+  "license": "Free as in Hugs",
+  "bugs": {
+    "url": "https://github.com/bmunoz89/nonce-fast/issues"
+  },
+  "homepage": "https://github.com/bmunoz89/nonce-fast#readme",
+  "engines": {
+    "node": ">=4"
+  },
+  "devDependencies": {
+    "benchmark": "^2.1.4",
+    "chai": "^4.1.2",
+    "mocha": "^5.0.0",
+    "nonce": "^1.0.4",
+    "nyc": "^11.4.1"
+  }
+}

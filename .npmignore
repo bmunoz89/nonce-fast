@@ -1,0 +1,7 @@
+/.nycrc
+/.travis.yml
+/.eslintrc.js
+/.gitignore
+/node_modules
+/benchmark
+/test
