@@ -2,9 +2,6 @@ addons:
   code_climate:
     repo_token:
       secure: "H3FGQOGPcjTVrejl9wGqr2JMfBCmX+g3yc1XVJ4zWtBWplHGOSfnR4uxAtybUXk/XObYtyrw7TQy8McL2DVcZRaZa2Eo0ZUEYIVHMhsqcUg0g6jh8kRgBYQxM+uoDmTOa+riJMJH9sJa3pL5M/16nnRFTwaJM9y6ajUHPcTVmcimB3a4tmPDn8nXFYsM+Gc9nq7e6Gm9UepNibgSZiRxiGApAonEk+mzWq49FOuPpCSt0R3fb+9KHHDmP+uAVYmY7PHKHLReQtRN2uPbSY+vK+xNKyiZSQ9j0gvv0uM4LHq73UG5SNZpVlWUTi+oPc63wJglNSR39zy9y6bUL31BDCxEmANpfX+K11ZC5BfPcm35PHB2PV6mVaIGLajtIULrzrNRCD8NiHfYajEvD43EIRG8pC0sAwv1Iinb5Nk1HY6WMCgVGtE7Iusgi2FRaadECnxOa8FGDkWyRq7JQtnhnfsDNr0l+l5IWotiot1/n31JgRxtGeGFaRLBYHyuFwRuggAq9+sLx9dk03mkhy3OBBDiAElxg5TkEPawFRFgSYPPWs6IOurjlZ/XdsBiISohhxTJ3l+iTsGKm6QVyky6OzMuSe3it3Xhb5vTOrimVpC4GCAjVe4SWGe3cvqQmX9+yvpI8L0Qr2VKqGho9x5GNkgV+TJcBnvzJew1y/aJ1yA="
-plugins:
-  nodesecurity:
-    enabled: true
 language: node_js
 node_js:
 - '4'
@@ -12,9 +9,6 @@ node_js:
 - '6'
 - '7'
 - lts/*
-cache:
-  directories:
-  - node_modules
 sudo: false
 cache:
   directories:
