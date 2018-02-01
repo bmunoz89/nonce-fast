@@ -2,7 +2,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/c3afc1fac7199fbbc9d5/maintainability)](https://codeclimate.com/github/bmunoz89/nonce-fast/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/c3afc1fac7199fbbc9d5/test_coverage)](https://codeclimate.com/github/bmunoz89/nonce-fast/test_coverage)
 [![npm version](https://badge.fury.io/js/nonce-fast.svg)](https://badge.fury.io/js/nonce-fast)
-[![Downloads](https://img.shields.io/npm/dt/bmunoz89/nonce-fast.svg)](https://www.npmjs.com/package/bmunoz89/nonce-fast)
+[![Downloads](https://img.shields.io/npm/dt/nonce-fast.svg)](https://www.npmjs.com/package/nonce-fast)
 [![dependency status](https://david-dm.org/bmunoz89/nonce-fast.svg)](https://david-dm.org/bmunoz89/nonce-fast)
 [![devDependency status](https://david-dm.org/bmunoz89/nonce-fast/dev-status.svg)](https://david-dm.org/bmunoz89/nonce-fast)
 
@@ -29,7 +29,6 @@ const Nonce = require('nonce-fast'),
 nonce(); # '802354675'
 nonce(); # '296876554'
 nonce(); # '269567223'
-
 ```
 
 ## Benchmark

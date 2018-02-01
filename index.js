@@ -22,6 +22,7 @@ module.exports = (length) => {
         last;
     return () => {
         let nonce = Math.floor(Math.random() * maxValue);
+        /* istanbul ignore if */
         if (nonce == last) {
             repeat++;
         } else {
