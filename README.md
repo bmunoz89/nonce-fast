@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/bmunoz89/nonce-fast.svg?branch=master)](https://travis-ci.org/bmunoz89/nonce-fast)
-[![Maintainability](https://api.codeclimate.com/v1/badges/c3afc1fac7199fbbc9d5/maintainability)](https://codeclimate.com/github/bmunoz89/nonce-fast/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/c3afc1fac7199fbbc9d5/test_coverage)](https://codeclimate.com/github/bmunoz89/nonce-fast/test_coverage)
+[![Maintainability](https://api.codeclimate.com/v1/badges/90439ae1afc3de0abc68/maintainability)](https://codeclimate.com/github/bmunoz89/nonce-fast/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/90439ae1afc3de0abc68/test_coverage)](https://codeclimate.com/github/bmunoz89/nonce-fast/test_coverage)
 [![npm version](https://badge.fury.io/js/nonce-fast.svg)](https://badge.fury.io/js/nonce-fast)
 [![Downloads](https://img.shields.io/npm/dt/nonce-fast.svg)](https://www.npmjs.com/package/nonce-fast)
 [![dependency status](https://david-dm.org/bmunoz89/nonce-fast.svg)](https://david-dm.org/bmunoz89/nonce-fast)
